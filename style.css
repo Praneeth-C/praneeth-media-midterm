@@ -16,4 +16,8 @@ body {
     h2 {
         text-align: left;
     }
+    .video {
+        display: block;
+        margin: auto;
+    }
 }
